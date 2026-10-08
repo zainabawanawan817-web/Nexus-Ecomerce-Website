@@ -1,0 +1,9 @@
+@import "tailwindcss";
+body{
+    background-color:#101934;
+}
+@layer utilites{
+    .clr{
+        background-color: linear-gradient(to right,\#0ea5e9,\#0369a1);
+    }
+}
